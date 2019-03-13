@@ -1,2 +1,3 @@
 Pluto is a planet!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Another line about Pluto!
+
+This line was manually merged.
